@@ -1,4 +1,4 @@
-# Kokoa clone
+# Kokoa clone✨
 
-Okay, Let's start!
-Than, what can I to do first?
+Okay, Let's start! <br>
+Than, what can I to do first? <br>
